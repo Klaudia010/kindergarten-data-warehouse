@@ -22,7 +22,8 @@ The project included:
 
 ## Technologies
 
-- SQL
+- SQL / T-SQL
+- Microsoft SQL Server
 - SQL Server Management Studio
 - SQL Server Integration Services / Analysis Services
 - Visual Studio
